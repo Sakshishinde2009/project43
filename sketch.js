@@ -13,7 +13,7 @@ function preload() {
   track = loadImage("./assets/track.png");
   bushImage = loadImage("./assets/bush.png");
  grassImage = loadImage("./assets/grass.png");
-}
+} 
 
 //BP
 function setup() {
